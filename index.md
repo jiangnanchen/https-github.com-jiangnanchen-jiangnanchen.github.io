@@ -1,6 +1,6 @@
 ---
 layout: page
-title: stormzhang博客精华
+title: yijiangnan生活精华
 keywords: stormzhang, storm, android, java, android developer, android开发, android技术分享, performance
 description: Focus Android, Love Open Source, Performance Optimization, Coding now
 categories: [Android]
@@ -9,7 +9,7 @@ categories: [Android]
 
 ## 每周推荐
 
-[AndroidDeveloper Weekly No.4](http://stormzhang.com/weekly/2016/08/08/android-developer-weekly-no-4/)
+[站南旺角的开发进度（有图片哦）](http://stormzhang.com/weekly/2016/08/08/android-developer-weekly-no-4/)
 
 [Android开源项目推荐之「网络请求哪家强」](http://stormzhang.com/opensource/2016/08/05/android-open-source-project-recommend2/)
 
