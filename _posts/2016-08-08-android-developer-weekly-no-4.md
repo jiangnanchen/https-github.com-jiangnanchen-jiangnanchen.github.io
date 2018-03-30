@@ -8,7 +8,7 @@ tags: [AndroidDeveloper]
 ---
 {% include codepiano/setup %}
 
-## 好文
+## 陈江南编写
 
 - [Android开发人员不得不收集的代码(持续更新中)](http://www.jianshu.com/p/72494773aace)
 
