@@ -1,4 +1,12 @@
-
+---
+layout: post
+keywords: blog
+description: blog
+title: "AndroidDeveloper Weekly No.4"
+categories: [Weekly]
+tags: [AndroidDeveloper]
+---
+{% include codepiano/setup %}
 # $$还是年轻是的模样$$
 
                                                           
